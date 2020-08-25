@@ -1,22 +1,24 @@
-{
-  "records": [
-    {
-      "id": "recEpMiTNy1V0z131",
-      "fields": {
-        "Tags": "bad take",
-        "Title": "The US declared war on TikTok because it can’t handle the truth - The Verge",
-        "URL": "https://www.google.com/amp/s/www.theverge.com/platform/amp/21355465/tiktok-us-china-information-nationalism-online-propaganda"
+[
+  {
+    "records": [
+      {
+        "id": "recEpMiTNy1V0z131",
+        "fields": {
+          "Tags": "bad take",
+          "Title": "The US declared war on TikTok because it can’t handle the truth - The Verge",
+          "URL": "https://www.google.com/amp/s/www.theverge.com/platform/amp/21355465/tiktok-us-china-information-nationalism-online-propaganda"
+        },
+        "createdTime": "2020-08-25T03:48:53.000Z"
       },
-      "createdTime": "2020-08-25T03:48:53.000Z"
-    },
-    {
-      "id": "reccJzW6gM3Y1IeZG",
-      "fields": {
-        "Tags": "China, Xinjiang",
-        "Title": "China needs an exit strategy from Xinjiang",
-        "URL": "https://asia.nikkei.com/Opinion/China-needs-an-exit-strategy-from-Xinjiang2"
-      },
-      "createdTime": "2020-08-25T05:24:25.000Z"
-    }
-  ]
-}
+      {
+        "id": "reccJzW6gM3Y1IeZG",
+        "fields": {
+          "Tags": "China, Xinjiang",
+          "Title": "China needs an exit strategy from Xinjiang",
+          "URL": "https://asia.nikkei.com/Opinion/China-needs-an-exit-strategy-from-Xinjiang2"
+        },
+        "createdTime": "2020-08-25T05:24:25.000Z"
+      }
+    ]
+  }
+]
